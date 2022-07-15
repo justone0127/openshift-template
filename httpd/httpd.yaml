@@ -11,7 +11,7 @@ metadata:
   annotations:
     description: poc-poc-httpd-example tempalte
     iconClass: icon-apache
-    openshift.io/display-name: PoC Apache HTTP Server
+    openshift.io/display-name: PoC Apache HTTP Server - Stable
     openshift.io/documentation-url: https://github.com/sclorg/httpd-ex
     openshift.io/long-description: This template defines resources needed to develop
       a static application served by Apache HTTP Server (httpd), including a build
